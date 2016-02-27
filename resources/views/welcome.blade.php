@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Fanfic test deployxx</div>
+                <div class="title">Fanfic test deploy</div>
             </div>
         </div>
     </body>

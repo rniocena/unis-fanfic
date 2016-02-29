@@ -322,7 +322,6 @@
             },
             "require": {
                 "classpreloader/classpreloader": "~2.0|~3.0",
-                "danielstjules/stringy": "~1.8",
                 "doctrine/inflector": "~1.0",
                 "ext-openssl": "*",
                 "jeremeamia/superclosure": "~2.0",

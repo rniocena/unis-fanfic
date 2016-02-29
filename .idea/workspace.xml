@@ -88,8 +88,8 @@
       <file leaf-file-name="composer.lock" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/composer.lock">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30704698" vertical-offset="4692" max-vertical-offset="45930">
-              <caret line="325" column="45" selection-start-line="325" selection-start-column="45" selection-end-line="325" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.30704698" vertical-offset="4662" max-vertical-offset="45915">
+              <caret line="323" column="61" selection-start-line="323" selection-start-column="61" selection-end-line="323" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -308,8 +308,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30704698" vertical-offset="4692" max-vertical-offset="45930">
-          <caret line="325" column="45" selection-start-line="325" selection-start-column="45" selection-end-line="325" selection-end-column="45" />
+        <state vertical-scroll-proportion="0.30704698" vertical-offset="4662" max-vertical-offset="45915">
+          <caret line="323" column="61" selection-start-line="323" selection-start-column="61" selection-end-line="323" selection-end-column="61" />
           <folding />
         </state>
       </provider>
